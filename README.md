@@ -1,4 +1,4 @@
-# This is the official tutorial for Remix
+# Example remix app
 
 - [Remix tutorial](https://remix.run/docs/en/main/start/tutorial)
 
