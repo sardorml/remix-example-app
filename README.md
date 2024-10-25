@@ -1,4 +1,6 @@
-# Welcome to Remix!
+# This is the official tutorial for Remix
+
+- [Remix tutorial](https://remix.run/docs/en/main/start/tutorial)
 
 - [Remix Docs](https://remix.run/docs)
 
